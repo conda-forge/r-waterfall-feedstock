@@ -3,7 +3,7 @@ About r-waterfall
 
 Home: https://jameshoward.us/software/waterfall/, https://github.com/howardjp/waterfall
 
-Package license: BSD_2_clause
+Package license: BSD-2-Clause
 
 Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-waterfall-feedstock/blob/master/LICENSE.txt)
 
