@@ -1,11 +1,11 @@
-About r-waterfall
-=================
+About r-waterfall-feedstock
+===========================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-waterfall-feedstock/blob/main/LICENSE.txt)
 
 Home: https://jameshoward.us/software/waterfall/, https://github.com/howardjp/waterfall
 
 Package license: BSD-2-Clause
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-waterfall-feedstock/blob/main/LICENSE.txt)
 
 Summary: Provides support for creating waterfall charts in R using both traditional base and lattice graphics.
 
